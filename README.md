@@ -1,1 +1,3 @@
-# git_learning
+# git learning with satinder
+Welcome to my git  learning program.	
+ 
