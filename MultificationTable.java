@@ -5,6 +5,7 @@ public class MultificationTable {
         Scanner input = new Scanner(System.in);
         System.out.print("enter the number :");
         int num = input.nextInt();
+        System.out.println("Table of "+ num+" is blow");
         table(num);
     }
 
